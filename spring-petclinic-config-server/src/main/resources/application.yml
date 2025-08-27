@@ -1,0 +1,9 @@
+server.port: 8888
+spring:
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          searchLocations: file:///C:/Users/Yazindu Dissanayake/Downloads/Documents/Mini project/VetCare/spring-petclinic-microservices-config-main
