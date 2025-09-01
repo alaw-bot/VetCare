@@ -1,7 +1,3 @@
-Perfect 👍 Let me extend your **GitHub README** with full sections. Here’s a structured draft you can use:
-
----
-
 # 🐾 VetCare – Distributed Veterinary Clinic Management System
 
 **VetCare** is a distributed information management system for veterinary clinics, built with **Spring Cloud Microservices**. It automates daily clinic operations such as **customer management**, **veterinarian profiles**, and **pet appointment scheduling**.
@@ -24,6 +20,7 @@ Perfect 👍 Let me extend your **GitHub README** with full sections. Here’s a
 ## 🏗 Architecture
 
 VetCare follows a microservices-based modular architecture.
+<img width="605" height="442" alt="image" src="https://github.com/user-attachments/assets/15556364-c54e-46e6-9538-0ada3c71fac3" />
 
 
 
